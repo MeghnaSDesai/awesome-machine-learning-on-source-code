@@ -7,7 +7,7 @@ An alternative actively maintained can be found at [ml4code.github.io](https://m
 
 A curated list of awesome research papers, datasets and software projects devoted to machine learning _and_ source code. [#MLonCode](https://twitter.com/hashtag/MLonCode)
 
-## Contents
+## Contents of project
 
 - [Digests](#digests)
 - [Conferences](#conferences)
